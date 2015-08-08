@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a51691d_afe499ac",
+        "filename": "make.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000041
+      },
+      "writtenOn": "2015-08-08T18:44:55Z",
+      "side": 1,
+      "message": "maybe use relative path: \"../../../prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-\" so others can use it too?",
+      "range": {
+        "startLine": 12,
+        "startChar": 21,
+        "endLine": 12,
+        "endChar": 100
+      },
+      "revId": "f1fc1c16ffcc063c96a6ab7a365afa8c78f2bdad",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
+    }
+  ]
+}
